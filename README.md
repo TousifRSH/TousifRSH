@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TousifRSH
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me tousifpy@gmail.com
 
 <!---
